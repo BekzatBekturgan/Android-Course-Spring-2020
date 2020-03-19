@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Lab1</string>
+    <string name="shpankov">Shpankov</string>
+    <string name="_31_01_2020_15_32">31.01.2020 в 15:32</string>
+    <string name="vivaldi_technologies_as">Блог компании Vivaldi Technologies AS, Браузеры</string>
+    <string name="description">Не секрет, что скорость работы браузера очень часто является критическим параметром при выборе пользователей. При этом скорость эта напрямую зависит от объёма данных, обрабатываемых браузером. В частности — сейчас речь идёт о закладках. Это удобный инструмент, позволяющий нам держать под рукой часто используемые ресурсы или откладывать для дальнейшего чтения какие-то новые ссылки, заинтересовавшие нас во время текущей работы. И не секрет, что чем больше закладок в нашем хранилище, тем больше шансов, что браузер начнёт тормозить при работе с ними.</string>
+    <string name="h1">Закладки - есть ли предел?</string>
+    <string name="todo">TODO</string>
+    <string name="date">31.01.2020 в 15:32</string>
+    <string name="start">Всем привет!</string>
+    <string name="description2">Поэтому сегодня мы хотим спросить вас о том, сколько в данный момент в вашем браузере сохранённых закладок.</string>
+    <string name="link">Автор изображение Someone</string>
+    <string name="end">vivaldi, браузер, опрос, закладки</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_head">Публикация</string>
+</resources>
